@@ -60,7 +60,8 @@ syntax
 ```
 cron(fields)
 ```
-
+## demo
+![demo2](https://user-images.githubusercontent.com/44817812/149077752-adc98ef2-3147-4c7d-91c5-2fd666f5c9d7.gif)
  ## Technology used in project:
  ![download](https://user-images.githubusercontent.com/44817812/149073611-2bd6fffa-fdb1-44bd-96bb-5af5743c970c.jpeg)
  ![download](https://user-images.githubusercontent.com/44817812/149073734-b64ad276-3dbc-451c-9a63-ab1b031ed314.png)
